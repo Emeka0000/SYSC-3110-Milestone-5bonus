@@ -16,8 +16,6 @@ import javax.swing.JPanel;
 /**
  * The RackPanel visually displays the current player's rack of Scrabble tiles.
  * 
- * @author Sahil Todeti, 101259541
- * @version Nov 21st, Milestone 2
  */
 public class RackPanel extends JPanel {
     private List<Character> tiles = new ArrayList();
