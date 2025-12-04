@@ -19,9 +19,6 @@ import java.util.Set;
  *  - Best-move selection
  *
  * The algorithm is intentionally simple for this milestone.
- *
- * @author Ashfaqul Alam, 101195158
- * @version Nov 23rd, Milestone 3
  */
 public class AIPlayer extends Player {
     private Dictionary dictionary = null;
