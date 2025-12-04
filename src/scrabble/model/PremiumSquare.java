@@ -4,8 +4,6 @@ package src.scrabble.model;
  * Represents the types of premium squares on the Scrabble board,
  * each with specific letter and word score multipliers.
  *
- * @author Ashfaqul Alam, 101195158
- * @version Nov 23rd, Milestone 3
  */
 public enum PremiumSquare {
     NORMAL(1, 1),
