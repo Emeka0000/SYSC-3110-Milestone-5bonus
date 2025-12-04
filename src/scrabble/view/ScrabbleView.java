@@ -22,9 +22,6 @@ import src.scrabble.model.ScrabbleModel;
  *
  * This class implements the GameListener interface
  * so that it can respond to game state updates from the model.
- *
- * @author Sahil Todeti, 101259541
- * @version Nov 20th, Milestone 3
  */
 public class ScrabbleView extends JFrame implements GameListener {
     private BoardPanel boardPanel;
