@@ -4,8 +4,6 @@ package src.scrabble.model;
  * Represents a Scrabble blank tile.
  * A blank tile has no point value and can represent any letter chosen by the player.
  *
- * @author Ashfaqul Alam, 101195158
- * @version Nov 23rd, Milestone 3
  */
 public class BlankTile {
     private char representedLetter;
