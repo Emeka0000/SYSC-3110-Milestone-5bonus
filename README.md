@@ -48,5 +48,5 @@ Ashfaqul Alam: Implemented MVC
   - Hooked into game flow in `src/scrabble/view/ScrabbleView.java`:
     - When a `GAME_ENDED` event is received, the Game Statistics dialog is displayed.
 - Contributors:
-  - Chukwuemeka Igwe: View hook on game end and UI polish
+  - Chukwuemeka Igwe: Integrated stats UI and UI polish
   - Sahil Todeti: Player model extensions for stats (turns, words, scores)
