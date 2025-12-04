@@ -18,8 +18,6 @@ import src.scrabble.view.ScrabbleView;
  * Main entry point for the Scrabble Game - Milestone 3.
  * Handles startup UI (player setup), initializes Model, View and Controller.
  *
- * @author Ashfaqul Alam, 101195158
- * @Version Nov 22nd, Milestone 3
  */
 public class
 
