@@ -12,9 +12,6 @@ import javax.swing.JTextArea;
 
 /**
  * The ControlPanel contains the main action buttons for the Scrabble UI: Place Word, Exchange Tiles, Pass Turn.
- *
- * @author Sahil Todeti, 101259541
- * @version Nov 21st, Milestone 3
  */
 public class ControlPanel extends JPanel {
     private JButton placeWordButton;
