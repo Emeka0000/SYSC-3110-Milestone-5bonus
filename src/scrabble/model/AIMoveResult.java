@@ -6,8 +6,6 @@ import java.util.List;
  * Represents the final evaluated move chosen by the AI.
  * Stores the word tiles placed, board position, orientation, and resulting score.
  *
- * @author Ashfaqul Alam, 101195158
- * @version Nov 23rd, Milestone 3
  */
 public class AIMoveResult {
     private final int row;
