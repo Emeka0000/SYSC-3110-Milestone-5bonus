@@ -9,8 +9,6 @@ import java.util.Set;
 /**
  * Dictionary represents a collection of valid Scrabble words.
  * 
- * @author Ashfaqul Alam, 101195158
- * @version Nov 23rd, Milestone 3
  */
 public class Dictionary {
     private Set<String> validWords = new HashSet();
