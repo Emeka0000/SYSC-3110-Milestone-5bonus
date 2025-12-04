@@ -6,9 +6,6 @@ import java.util.List;
 /**
  * Class Board - The Board that is used to play the Scrabble Game
  * Updated for Milestone 3 with PremiumSquares
- *
- * @author Ashfaqul Alam, 101195158
- * @version Nov 23rd, Milestone 3
  */
 public class Board {
 
