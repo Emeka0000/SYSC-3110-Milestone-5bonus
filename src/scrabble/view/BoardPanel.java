@@ -15,8 +15,6 @@ import src.scrabble.model.PremiumSquare;
 /**
  * The BoardPanel is responsible for visually displaying the 15x15 Scrabble board.
  *
- * @author Sahil Todeti, 101259541
- * @version Nov 20th, Milestone 3
  */
 public class BoardPanel extends JPanel {
     private Board board;
