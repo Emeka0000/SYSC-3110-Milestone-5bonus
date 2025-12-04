@@ -5,8 +5,6 @@ import java.util.EventObject;
 /**
  * Represents an event occurring in the Scrabble game.
  * 
- * @author Ashfaqul Alam, 101195158
- * @version Nov 22rd, Milestone 3
  */
 public class GameEvent extends EventObject {
     private final Type type;
