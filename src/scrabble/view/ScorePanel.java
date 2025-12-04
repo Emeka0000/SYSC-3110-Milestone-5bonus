@@ -14,8 +14,6 @@ import src.scrabble.model.Player;
  * The ScorePanel displays the list of players and their scores
  * in a scrollable text area on the right side of the Scrabble UI.
  * 
- * @author Sahil Todeti, 101259541
- * @version Nov 20th, Milestone 3
  */
 public class ScorePanel extends JPanel {
     private JTextArea scoreArea;
